@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Bulanan",
+    "value": "monthly"
+  },
+  {
+    "label": "Triwulanan",
+    "value": "quarterly"
+  },
+  {
+    "label": "Tahunan",
+    "value": "annually"
+  }
+]

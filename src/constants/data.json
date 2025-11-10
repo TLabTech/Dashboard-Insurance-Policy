@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "no": 1,
+    "nomor_polis": "POL-2025001",
+    "name": "Faqih Fansuri",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Jiwa Kredit (AJK)",
+    "premi": "870000",
+    "status": "Draft"
+  },
+  {
+    "id": 2,
+    "no": 2,
+    "nomor_polis": "POL-2025002",
+    "name": "Fikky Hardianto",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Mikro Kecelakaan",
+    "premi": "880000",
+    "status": "Disetujui"
+  },
+  {
+    "id": 3,
+    "no": 3,
+    "nomor_polis": "POL-2025003",
+    "name": "Muhammad Abdul Rosyid",
+    "user": "Supervisor 1",
+    "produk": "Kesehatan dan Meninggal Dunia (AMKKM)",
+    "premi": "170000",
+    "status": "Revisi"
+  },
+  {
+    "id": 4,
+    "no": 4,
+    "nomor_polis": "POL-2025004",
+    "name": "Nanda Mahardika",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Mikro Rumahku",
+    "premi": "410000",
+    "status": "Ditolak"
+  },
+  {
+    "id": 5,
+    "no": 5,
+    "nomor_polis": "POL-2025005",
+    "name": "Paulus Jeharu",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Mikro Kerusakan Rumahku",
+    "premi": "310000",
+    "status": "Disetujui"
+  },
+  {
+    "id": 6,
+    "no": 6,
+    "nomor_polis": "POL-2025006",
+    "name": "Joko Darwono",
+    "produk": "Asuransi Diri Sejahtera",
+    "user": "Supervisor 1",
+    "premi": "770000",
+    "status": "Disetujui"
+  },
+  {
+    "id": 7,
+    "no": 7,
+    "nomor_polis": "POL-2025007",
+    "name": "Gloria Grace Tanama",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Dana Pensiun",
+    "premi": "450000",
+    "status": "Ditolak"
+  },
+  {
+    "id": 8,
+    "no": 8,
+    "nomor_polis": "POL-2025010",
+    "name": "Basuki Abdullah",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Pendidikan Anak",
+    "premi": "290000",
+    "status": "Revisi"
+  },
+  {
+    "id": 9,
+    "no": 9,
+    "nomor_polis": "POL-2025008",
+    "name": "Vinsensiana Aprilia Nanda",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Perjalanan Domestik",
+    "premi": "230000",
+    "status": "Disetujui"
+  },
+  {
+    "id": 10,
+    "no": 10,
+    "nomor_polis": "POL-2025009",
+    "name": "Sri Djumaiti",
+    "produk": "Asuransi Perjalanan Internasional",
+    "user": "Supervisor 1",
+    "premi": "730000",
+    "status": "Ditolak"
+  },
+  {
+    "id": 11,
+    "no": 11,
+    "nomor_polis": "POL-2025001",
+    "name": "Faqih Fansuri",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Jiwa Kredit (AJK)",
+    "premi": "870000",
+    "status": "Draft"
+  },
+  {
+    "id": 12,
+    "no": 12,
+    "nomor_polis": "POL-2025002",
+    "name": "Fikky Hardianto",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Mikro Kecelakaan",
+    "premi": "880000",
+    "status": "Disetujui"
+  },
+  {
+    "id": 13,
+    "no": 13,
+    "nomor_polis": "POL-2025003",
+    "name": "Muhammad Abdul Rosyid",
+    "user": "Supervisor 1",
+    "produk": "Kesehatan dan Meninggal Dunia (AMKKM)",
+    "premi": "170000",
+    "status": "Revisi"
+  },
+  {
+    "id": 14,
+    "no": 14,
+    "nomor_polis": "POL-2025004",
+    "name": "Nanda Mahardika",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Mikro Rumahku",
+    "premi": "410000",
+    "status": "Ditolak"
+  },
+  {
+    "id": 15,
+    "no": 15,
+    "nomor_polis": "POL-2025005",
+    "name": "Paulus Jeharu",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Mikro Kerusakan Rumahku",
+    "premi": "310000",
+    "status": "Disetujui"
+  },
+  {
+    "id": 16,
+    "no": 16,
+    "nomor_polis": "POL-2025006",
+    "name": "Joko Darwono",
+    "produk": "Asuransi Diri Sejahtera",
+    "user": "Supervisor 1",
+    "premi": "770000",
+    "status": "Disetujui"
+  },
+  {
+    "id": 17,
+    "no": 17,
+    "nomor_polis": "POL-2025007",
+    "name": "Gloria Grace Tanama",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Dana Pensiun",
+    "premi": "450000",
+    "status": "Ditolak"
+  },
+  {
+    "id": 18,
+    "no": 18,
+    "nomor_polis": "POL-2025010",
+    "name": "Basuki Abdullah",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Pendidikan Anak",
+    "premi": "290000",
+    "status": "Revisi"
+  },
+  {
+    "id": 19,
+    "no": 19,
+    "nomor_polis": "POL-2025008",
+    "name": "Vinsensiana Aprilia Nanda",
+    "user": "Supervisor 1",
+    "produk": "Asuransi Perjalanan Domestik",
+    "premi": "230000",
+    "status": "Disetujui"
+  },
+  {
+    "id": 20,
+    "no": 20,
+    "nomor_polis": "POL-2025009",
+    "name": "Sri Djumaiti",
+    "produk": "Asuransi Perjalanan Internasional",
+    "user": "Supervisor 1",
+    "premi": "730000",
+    "status": "Ditolak"
+  }
+]

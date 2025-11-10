@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "code": "BSB001",
+    "name": "Kantor Pusat Palembang"
+  },
+  {
+    "id": 2,
+    "code": "BSB002",
+    "name": "Cabang Bangka"
+  },
+  {
+    "id": 3,
+    "code": "BSB003",
+    "name": "Cabang Lubuklinggau"
+
+  },
+  {
+    "id": 4,
+    "code": "BSB004",
+    "name": "Cabang Lahat"
+  },
+  {
+    "id": 5,
+    "code": "BSB005",
+    "name": "Cabang Belitung"
+  }
+]

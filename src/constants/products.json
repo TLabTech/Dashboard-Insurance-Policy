@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ajk",
+    "name": "Asuransi Jiwa Kredit (AJK)"
+  },
+  {
+    "id": "mikro-kecelakaan",
+    "name": "Asuransi Mikro Kecelakaan"
+  },
+  {
+    "id": "amkkm",
+    "name": "Kesehatan dan Meninggal Dunia (AMKKM)"
+  },
+  {
+    "id": "mikro-rumahku",
+    "name": "Asuransi Mikro Rumahku"
+  },
+  {
+    "id": "mikro-kerusakan-rumahku",
+    "name": "Asuransi Mikro Kerusakan Rumahku"
+  },
+  {
+    "id": "diri-sejahtera",
+    "name": "Asuransi Diri Sejahtera"
+  },
+  {
+    "id": "dana-pensiun",
+    "name": "Asuransi Dana Pensiun"
+  },
+  {
+    "id": "pendidikan-anak",
+    "name": "Asuransi Pendidikan Anak"
+  },
+  {
+    "id": "perjalanan-domestik",
+    "name": "Asuransi Perjalanan Domestik"
+  },
+  {
+    "id": "perjalanan-internasional",
+    "name": "Asuransi Perjalanan Internasional"
+  }
+]
